@@ -1,0 +1,13 @@
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe.config
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.exe
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\bin\Debug\WeatherApplication.pdb
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\bin\Debug\WeatherNet.dll
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csprojAssemblyReference.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.Properties.Resources.resources
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.GenerateResource.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csproj.CopyComplete
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.exe
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\Antony\Documents\Visual Studio 2019\Projects\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.MainForm.resources
