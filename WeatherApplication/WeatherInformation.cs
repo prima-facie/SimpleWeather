@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using WeatherNet;
 using WeatherNet.Clients;
@@ -38,14 +34,14 @@ namespace WeatherApplication
             try
             {
                 ClientSettings.ApiUrl = "http://api.openweathermap.org/data/2.5";
-                ClientSettings.ApiKey = "261f1b6b83000adb25554947a753bca5";
+                ClientSettings.ApiKey = "YOUR-API-KEY"; // Enter your OpenWeatherMap API key here
                 var information = CurrentWeather.GetByCityName(area, country, "en", "metric");
-                temp = Math.Round(information.Item.Temp).ToString() + "°C";
-                humidity = Math.Round(information.Item.Humidity).ToString() + "%";
-                status = information.Item.Title;
-                wind = Math.Round(information.Item.WindSpeed) + "km/h";
-                area = information.Item.City + ", " + information.Item.Country;
-                imageLocation = "http://openweathermap.org/img/wn/" + information.Item.Icon + "@2x.png";
+                temp = Math.Round(information.Item.Temp).ToString() + "°C"; // Temperature
+                humidity = Math.Round(information.Item.Humidity).ToString() + "%"; // Humidity
+                status = information.Item.Title; // Status
+                wind = Math.Round(information.Item.WindSpeed) + "km/h"; // Wind Speed
+                area = information.Item.City + ", " + information.Item.Country; // Weather location
+                imageLocation = "http://openweathermap.org/img/wn/" + information.Item.Icon + "@2x.png"; // Get image location
             }
             catch (Exception ex)
             {

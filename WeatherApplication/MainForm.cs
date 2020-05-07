@@ -14,7 +14,7 @@ namespace WeatherApplication
 
         private void GetWeather()
         {
-            if (!string.IsNullOrEmpty(TxtCity.Text) && !string.IsNullOrEmpty(CountryBox.SelectedItem.ToString()))
+            if (!string.IsNullOrEmpty(TxtCity.Text) && !string.IsNullOrEmpty(CountryBox.SelectedItem.ToString())) // Check if user provided information
             {
                 string country = CountryBox.SelectedItem.ToString();
                 string city = TxtCity.Text;
